@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HolyLandCapture</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Main Activity -->
+    <string name="camera_mode_button">Camera Mode</string>
+    <string name="controller_mode_button">Controller</string>
+    <string name="setting_button">Settings</string>
+    <string name="support_button">Support</string>
+
+    <!-- Preference Titles -->
+    <string name="photo_header">Photo</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="use_exif">Add EXIF Information</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="permission_failed">Permissions not granted by the user</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>
